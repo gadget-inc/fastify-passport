@@ -58,9 +58,6 @@ jspm_packages/
 # next.js build output
 .next
 
-# compiled lib
-dist
-
 # TAP files
 out.tap
 junit-testresults.xml
